@@ -140,9 +140,11 @@ Messages
   float: left;
   padding: 6px 10px 7px;
   border-radius: 10px 10px 10px 0;
-  background: rgba(0, 0, 0, 0.3);
+  background: #424242;
+  color: #fff;
   margin: 8px 0;
-  font-size: 11px;
+  font-size: 13px;
+  font-family: segoe ui;
   line-height: 1.4;
   margin-left: 0px;
   position: relative;
@@ -178,6 +180,7 @@ Messages
 .messages .message.message-personal {
   float: right;
   color: #fff;
+  font-size: 14px;
   text-align: right;
   background: -webkit-linear-gradient(330deg, #248A52, #257287);
   background: linear-gradient(120deg, #248A52, #257287);
